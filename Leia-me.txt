@@ -1,0 +1,5 @@
+﻿1) execute o script "BD - Veiculos.sql" no seu Banco de Dados
+2) mude os parametros da conexão do banco de dados - arquivo "veiculos/config/dbConnection.js"
+3) execute npm install
+4) execute node app
+5) abra o navegador e acesse o link localhost:3000
